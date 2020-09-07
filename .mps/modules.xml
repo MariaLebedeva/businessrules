@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.jetbrains.brlang/com.jetbrains.brlang.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.jetbrains.brlang/sandbox/com.jetbrains.brlang.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
