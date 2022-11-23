@@ -3,7 +3,7 @@
   <persistence version="9" />
   <languages>
     <use id="3baf4e82-c3b1-4b09-98d0-2b6024124914" name="com.jetbrains.brlang" version="0" />
-    <use id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage" version="11" />
+    <use id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage" version="12" />
   </languages>
   <imports />
   <registry>
